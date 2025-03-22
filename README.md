@@ -99,5 +99,4 @@ dotnet test
 
 ---
 📌 **Author:** Hoàng Phúc  
-🚀 **Version:** 1.0.0  
-📅 **Last Updated:** $(date +%Y-%m-%d)
+🚀 **Version:** 1.0.0 
